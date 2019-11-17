@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\bin\Release\netcoreapp2.2\Backend.deps.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\bin\Release\netcoreapp2.2\Backend.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\bin\Release\netcoreapp2.2\Backend.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\bin\Release\netcoreapp2.2\Backend.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\bin\Release\netcoreapp2.2\Backend.pdb
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab2\src\Backend\obj\Release\netcoreapp2.2\Backend.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\bin\Debug\netcoreapp2.2\TextStatistics.deps.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\bin\Debug\netcoreapp2.2\TextStatistics.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\bin\Debug\netcoreapp2.2\TextStatistics.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\bin\Debug\netcoreapp2.2\TextStatistics.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\bin\Debug\netcoreapp2.2\TextStatistics.pdb
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab7\src\TextStatistics\obj\Debug\netcoreapp2.2\TextStatistics.pdb

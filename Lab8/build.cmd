@@ -1,0 +1,49 @@
+@echo off
+setlocal
+
+set /p string=<src/config/config.json
+
+set version=%1
+rem Remove quotes
+set string=%string:"=%
+rem Remove braces
+set "string=%string:~2,-2%"
+rem Change colon+space by equal-sign
+set "string=%string:: ==%"
+rem Separate parts at comma into individual assignments
+set "%string:, =" & set "%"                 
+SET _buildPath= "%project_name%-%version%"
+
+mkdir "%_buildPath%"
+cd ../"%_buildPath%"
+
+
+cd src/BackendApi
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/BackendApi" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../Frontend
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/Frontend" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../TextListener
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/TextListener" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../TextRankCalc
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/TextRankCalc" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../VowelConsCounter
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/VowelConsCounter" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../VowelConsRater
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/VowelConsRater" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../TextStatistics
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/TextStatistics" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../TextProcessingLimiter
+dotnet publish --configuration "%build_mode%" -f netcoreapp2.2 -o "../../%_buildPath%/TextProcessingLimiter" /property:PublishWithAspNetCoreTargetManifest=false
+
+cd ../
+cd ../
+copy run.cmd "%_buildPath%"
+copy stop.cmd "%_buildPath%"
+robocopy src/config "%_buildPath%/config" /E

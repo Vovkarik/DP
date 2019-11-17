@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\bin\Release\netcoreapp2.2\TextRankCalc.deps.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\bin\Release\netcoreapp2.2\TextRankCalc.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\bin\Release\netcoreapp2.2\TextRankCalc.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\bin\Release\netcoreapp2.2\TextRankCalc.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\bin\Release\netcoreapp2.2\TextRankCalc.pdb
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab4\src\TextRankCalc\obj\Release\netcoreapp2.2\TextRankCalc.pdb

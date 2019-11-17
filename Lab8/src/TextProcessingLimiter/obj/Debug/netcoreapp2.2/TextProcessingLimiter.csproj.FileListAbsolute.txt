@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\bin\Debug\netcoreapp2.2\TextProcessingLimiter.deps.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\bin\Debug\netcoreapp2.2\TextProcessingLimiter.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\bin\Debug\netcoreapp2.2\TextProcessingLimiter.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\bin\Debug\netcoreapp2.2\TextProcessingLimiter.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\bin\Debug\netcoreapp2.2\TextProcessingLimiter.pdb
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab8\src\TextProcessingLimiter\obj\Debug\netcoreapp2.2\TextProcessingLimiter.pdb

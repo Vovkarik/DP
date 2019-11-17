@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\netcoreapp2.2\VowelConsCounter.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\netcoreapp2.2\VowelConsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\netcoreapp2.2\VowelConsCounter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\netcoreapp2.2\VowelConsCounter.AssemblyInfo.cs

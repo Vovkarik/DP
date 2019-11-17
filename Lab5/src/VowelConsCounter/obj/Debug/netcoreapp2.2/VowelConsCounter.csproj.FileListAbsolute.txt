@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\bin\Debug\netcoreapp2.2\VowelConsCounter.deps.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\bin\Debug\netcoreapp2.2\VowelConsCounter.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\bin\Debug\netcoreapp2.2\VowelConsCounter.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\bin\Debug\netcoreapp2.2\VowelConsCounter.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\bin\Debug\netcoreapp2.2\VowelConsCounter.pdb
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.dll
+C:\Users\Lenovo\Documents\GitHub\РП\Lab5\src\VowelConsCounter\obj\Debug\netcoreapp2.2\VowelConsCounter.pdb
